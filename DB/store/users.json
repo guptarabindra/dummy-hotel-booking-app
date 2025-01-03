@@ -1,0 +1,16 @@
+
+  [
+      {
+      "UserID": 10,
+      "Email": "test@test.com",
+      "FirstName": "Rabindra",
+      "LastName": "Gpt",
+      "Nickname": "Ravi",
+      "LastIP": "94.111.000.00",
+      "LoginCounts": 15,
+      "CreatedAt": "2024-12-28T14:10:11.338Z",
+      "UpdatedAt": "2024-12-02T01:17:29.310Z",
+      "LastLogin": "2024-12-02T01:17:29.310Z",
+      "EmailVerified": true
+    }
+]

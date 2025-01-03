@@ -1,0 +1,14 @@
+[
+    {
+      "CheckIn": "2024-12-18T00:00:00Z",
+      "CheckOut": "2024-12-18T00:00:00Z",
+      "Days": 2,
+      "RoomNumbers": [1],
+      "BookedOn": "2024-12-18T00:00:00Z",
+      "Ammount": 2024.5,
+      "Location": "",
+      "UserID": 10,
+      "HotelID": 11,
+      "People": {"children": 1, "adult": 2}
+    }
+]
